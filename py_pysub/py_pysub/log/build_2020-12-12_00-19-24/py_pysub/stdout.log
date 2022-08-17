@@ -1,0 +1,31 @@
+running egg_info
+creating build/py_pysub/py_pysub.egg-info
+writing build/py_pysub/py_pysub.egg-info/PKG-INFO
+writing dependency_links to build/py_pysub/py_pysub.egg-info/dependency_links.txt
+writing entry points to build/py_pysub/py_pysub.egg-info/entry_points.txt
+writing requirements to build/py_pysub/py_pysub.egg-info/requires.txt
+writing top-level names to build/py_pysub/py_pysub.egg-info/top_level.txt
+writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+reading manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/navq/ros2src/py_pysub/build/py_pysub/build
+creating /home/navq/ros2src/py_pysub/build/py_pysub/build/lib
+creating /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub
+copying py_pysub/__init__.py -> /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub
+running install
+running install_lib
+creating /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub
+copying /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub/__init__.py -> /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub
+byte-compiling /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index
+creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index
+creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index/packages
+copying resource/py_pysub -> /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index/packages
+copying package.xml -> /home/navq/ros2src/py_pysub/install/py_pysub/share/py_pysub
+running install_egg_info
+Copying build/py_pysub/py_pysub.egg-info to /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/navq/ros2src/py_pysub/build/py_pysub/install.log'

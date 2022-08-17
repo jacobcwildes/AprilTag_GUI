@@ -1,0 +1,53 @@
+[0.000000] (-) TimerEvent: {}
+[0.001498] (py_pysub) JobQueued: {'identifier': 'py_pysub', 'dependencies': OrderedDict()}
+[0.002935] (py_pysub) JobStarted: {'identifier': 'py_pysub'}
+[0.098867] (-) TimerEvent: {}
+[0.200261] (-) TimerEvent: {}
+[0.301284] (-) TimerEvent: {}
+[0.402264] (-) TimerEvent: {}
+[0.503092] (-) TimerEvent: {}
+[0.603927] (-) TimerEvent: {}
+[0.704870] (-) TimerEvent: {}
+[0.805760] (-) TimerEvent: {}
+[0.906835] (-) TimerEvent: {}
+[1.007968] (-) TimerEvent: {}
+[1.111460] (-) TimerEvent: {}
+[1.134417] (py_pysub) Command: {'cmd': ['/usr/bin/python3', 'setup.py', 'egg_info', '--egg-base', 'build/py_pysub', 'build', '--build-base', '/home/navq/ros2src/py_pysub/build/py_pysub/build', 'install', '--prefix', '/home/navq/ros2src/py_pysub/install/py_pysub', '--record', '/home/navq/ros2src/py_pysub/build/py_pysub/install.log', '--single-version-externally-managed'], 'cwd': '/home/navq/ros2src/py_pysub', 'env': {'USER': 'navq', 'SSH_CLIENT': '192.168.0.212 57788 22', 'XDG_SESSION_TYPE': 'tty', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/navq/px4_ros_com_ros2/install/px4_ros_com/lib:/home/navq/px4_ros_com_ros2/install/px4_msgs/lib:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/lib/aarch64-linux-gnu:/opt/ros/foxy/lib', 'MOTD_SHOWN': 'pam', 'HOME': '/home/navq', 'OLDPWD': '/home/navq/ros2src/py_pysub/py_pysub', 'SSH_TTY': '/dev/pts/0', 'ROS_PYTHON_VERSION': '3', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLCON_PREFIX_PATH': '/home/navq/ros2src/py_pysub/install:/home/navq/px4_ros_com_ros2/install', 'ROS_DISTRO': 'foxy', 'LOGNAME': 'navq', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'TERM': 'xterm-256color', 'XDG_SESSION_ID': '3', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/navq/px4_ros_com_ros2/install/px4_ros_com/bin:/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games', 'XDG_RUNTIME_DIR': '/run/user/1000', 'LANG': 'C.UTF-8', 'AMENT_PREFIX_PATH': '/home/navq/ros2src/py_pysub/install/py_pysub:/home/navq/px4_ros_com_ros2/install/px4_ros_com:/home/navq/px4_ros_com_ros2/install/px4_msgs:/opt/ros/foxy', 'SHELL': '/bin/bash', 'PWD': '/home/navq/ros2src/py_pysub/build/py_pysub', 'SSH_CONNECTION': '192.168.0.212 57788 192.168.0.90 22', 'PYTHONPATH': '/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:/home/navq/px4_ros_com_ros2/install/px4_msgs/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages', 'COLCON': '1', 'CMAKE_PREFIX_PATH': '/home/navq/px4_ros_com_ros2/install/px4_ros_com:/home/navq/px4_ros_com_ros2/install/px4_msgs'}, 'shell': False}
+[1.211747] (-) TimerEvent: {}
+[1.312877] (-) TimerEvent: {}
+[1.413768] (-) TimerEvent: {}
+[1.514658] (-) TimerEvent: {}
+[1.615550] (-) TimerEvent: {}
+[1.716463] (-) TimerEvent: {}
+[1.817341] (-) TimerEvent: {}
+[1.918274] (-) TimerEvent: {}
+[2.019290] (-) TimerEvent: {}
+[2.078351] (py_pysub) StdoutLine: {'line': b'running egg_info\n'}
+[2.081664] (py_pysub) StdoutLine: {'line': b'writing build/py_pysub/py_pysub.egg-info/PKG-INFO\n'}
+[2.083080] (py_pysub) StdoutLine: {'line': b'writing dependency_links to build/py_pysub/py_pysub.egg-info/dependency_links.txt\n'}
+[2.084126] (py_pysub) StdoutLine: {'line': b'writing entry points to build/py_pysub/py_pysub.egg-info/entry_points.txt\n'}
+[2.085138] (py_pysub) StdoutLine: {'line': b'writing requirements to build/py_pysub/py_pysub.egg-info/requires.txt\n'}
+[2.086066] (py_pysub) StdoutLine: {'line': b'writing top-level names to build/py_pysub/py_pysub.egg-info/top_level.txt\n'}
+[2.119521] (-) TimerEvent: {}
+[2.220453] (-) TimerEvent: {}
+[2.285824] (py_pysub) StdoutLine: {'line': b"reading manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'\n"}
+[2.290656] (py_pysub) StdoutLine: {'line': b"writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'\n"}
+[2.291592] (py_pysub) StdoutLine: {'line': b'running build\n'}
+[2.292439] (py_pysub) StdoutLine: {'line': b'running build_py\n'}
+[2.293314] (py_pysub) StdoutLine: {'line': b'running install\n'}
+[2.297463] (py_pysub) StdoutLine: {'line': b'running install_lib\n'}
+[2.304500] (py_pysub) StdoutLine: {'line': b'running install_data\n'}
+[2.306861] (py_pysub) StdoutLine: {'line': b'copying package.xml -> /home/navq/ros2src/py_pysub/install/py_pysub/share/py_pysub\n'}
+[2.307756] (py_pysub) StdoutLine: {'line': b'running install_egg_info\n'}
+[2.316237] (py_pysub) StdoutLine: {'line': b"removing '/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info' (and everything under it)\n"}
+[2.317745] (py_pysub) StdoutLine: {'line': b'Copying build/py_pysub/py_pysub.egg-info to /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info\n'}
+[2.320606] (-) TimerEvent: {}
+[2.322897] (py_pysub) StdoutLine: {'line': b'running install_scripts\n'}
+[2.410679] (py_pysub) StdoutLine: {'line': b'Installing talker script to /home/navq/ros2src/py_pysub/install/py_pysub/lib/py_pysub\n'}
+[2.412540] (py_pysub) StdoutLine: {'line': b"writing list of installed files to '/home/navq/ros2src/py_pysub/build/py_pysub/install.log'\n"}
+[2.420828] (-) TimerEvent: {}
+[2.521791] (-) TimerEvent: {}
+[2.568492] (py_pysub) CommandEnded: {'returncode': 0}
+[2.621990] (-) TimerEvent: {}
+[2.633881] (py_pysub) JobEnded: {'identifier': 'py_pysub', 'rc': 0}
+[2.638298] (-) EventReactorShutdown: {}

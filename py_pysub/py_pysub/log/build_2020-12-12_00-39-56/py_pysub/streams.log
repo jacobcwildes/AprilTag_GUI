@@ -1,0 +1,24 @@
+[1.119s] Invoking command in '/home/navq/ros2src/py_pysub': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed
+[2.074s] running egg_info
+[2.077s] writing build/py_pysub/py_pysub.egg-info/PKG-INFO
+[2.078s] writing dependency_links to build/py_pysub/py_pysub.egg-info/dependency_links.txt
+[2.079s] writing entry points to build/py_pysub/py_pysub.egg-info/entry_points.txt
+[2.080s] writing requirements to build/py_pysub/py_pysub.egg-info/requires.txt
+[2.081s] writing top-level names to build/py_pysub/py_pysub.egg-info/top_level.txt
+[2.284s] reading manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.289s] writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.289s] running build
+[2.290s] running build_py
+[2.291s] copying py_pysub/publisher_member_function.py -> /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub
+[2.292s] running install
+[2.296s] running install_lib
+[2.301s] copying /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub/publisher_member_function.py -> /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub
+[2.304s] byte-compiling /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub/publisher_member_function.py to publisher_member_function.cpython-38.pyc
+[2.313s] running install_data
+[2.315s] running install_egg_info
+[2.323s] removing '/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info' (and everything under it)
+[2.325s] Copying build/py_pysub/py_pysub.egg-info to /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info
+[2.329s] running install_scripts
+[2.423s] Installing talker script to /home/navq/ros2src/py_pysub/install/py_pysub/lib/py_pysub
+[2.425s] writing list of installed files to '/home/navq/ros2src/py_pysub/build/py_pysub/install.log'
+[2.582s] Invoked command in '/home/navq/ros2src/py_pysub' returned '0': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed

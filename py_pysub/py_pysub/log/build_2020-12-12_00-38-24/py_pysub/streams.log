@@ -1,0 +1,22 @@
+[1.135s] Invoking command in '/home/navq/ros2src/py_pysub': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed
+[2.075s] running egg_info
+[2.078s] writing build/py_pysub/py_pysub.egg-info/PKG-INFO
+[2.080s] writing dependency_links to build/py_pysub/py_pysub.egg-info/dependency_links.txt
+[2.081s] writing entry points to build/py_pysub/py_pysub.egg-info/entry_points.txt
+[2.082s] writing requirements to build/py_pysub/py_pysub.egg-info/requires.txt
+[2.083s] writing top-level names to build/py_pysub/py_pysub.egg-info/top_level.txt
+[2.283s] reading manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.287s] writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.288s] running build
+[2.289s] running build_py
+[2.290s] running install
+[2.294s] running install_lib
+[2.301s] running install_data
+[2.304s] copying package.xml -> /home/navq/ros2src/py_pysub/install/py_pysub/share/py_pysub
+[2.304s] running install_egg_info
+[2.313s] removing '/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info' (and everything under it)
+[2.314s] Copying build/py_pysub/py_pysub.egg-info to /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info
+[2.320s] running install_scripts
+[2.407s] Installing talker script to /home/navq/ros2src/py_pysub/install/py_pysub/lib/py_pysub
+[2.409s] writing list of installed files to '/home/navq/ros2src/py_pysub/build/py_pysub/install.log'
+[2.566s] Invoked command in '/home/navq/ros2src/py_pysub' returned '0': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed

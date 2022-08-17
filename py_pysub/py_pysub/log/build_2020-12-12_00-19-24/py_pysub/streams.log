@@ -1,0 +1,33 @@
+[1.139s] Invoking command in '/home/navq/ros2src/py_pysub': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed
+[2.080s] running egg_info
+[2.083s] creating build/py_pysub/py_pysub.egg-info
+[2.084s] writing build/py_pysub/py_pysub.egg-info/PKG-INFO
+[2.085s] writing dependency_links to build/py_pysub/py_pysub.egg-info/dependency_links.txt
+[2.086s] writing entry points to build/py_pysub/py_pysub.egg-info/entry_points.txt
+[2.087s] writing requirements to build/py_pysub/py_pysub.egg-info/requires.txt
+[2.088s] writing top-level names to build/py_pysub/py_pysub.egg-info/top_level.txt
+[2.097s] writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.302s] reading manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.307s] writing manifest file 'build/py_pysub/py_pysub.egg-info/SOURCES.txt'
+[2.307s] running build
+[2.309s] running build_py
+[2.309s] creating /home/navq/ros2src/py_pysub/build/py_pysub/build
+[2.310s] creating /home/navq/ros2src/py_pysub/build/py_pysub/build/lib
+[2.311s] creating /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub
+[2.312s] copying py_pysub/__init__.py -> /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub
+[2.312s] running install
+[2.316s] running install_lib
+[2.321s] creating /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub
+[2.322s] copying /home/navq/ros2src/py_pysub/build/py_pysub/build/lib/py_pysub/__init__.py -> /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub
+[2.324s] byte-compiling /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub/__init__.py to __init__.cpython-38.pyc
+[2.331s] running install_data
+[2.334s] creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index
+[2.335s] creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index
+[2.336s] creating /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index/packages
+[2.337s] copying resource/py_pysub -> /home/navq/ros2src/py_pysub/install/py_pysub/share/ament_index/resource_index/packages
+[2.337s] copying package.xml -> /home/navq/ros2src/py_pysub/install/py_pysub/share/py_pysub
+[2.338s] running install_egg_info
+[2.346s] Copying build/py_pysub/py_pysub.egg-info to /home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages/py_pysub-0.0.0-py3.8.egg-info
+[2.351s] running install_scripts
+[2.450s] writing list of installed files to '/home/navq/ros2src/py_pysub/build/py_pysub/install.log'
+[2.607s] Invoked command in '/home/navq/ros2src/py_pysub' returned '0': PYTHONPATH=/home/navq/ros2src/py_pysub/install/py_pysub/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/py_pysub build --build-base /home/navq/ros2src/py_pysub/build/py_pysub/build install --prefix /home/navq/ros2src/py_pysub/install/py_pysub --record /home/navq/ros2src/py_pysub/build/py_pysub/install.log --single-version-externally-managed
